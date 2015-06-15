@@ -1,0 +1,13 @@
+06-15 17:25:23.431: E/AndroidRuntime(1618): FATAL EXCEPTION: main
+06-15 17:25:23.431: E/AndroidRuntime(1618): Process: com.example.ch05_tempftoc, PID: 1618
+06-15 17:25:23.431: E/AndroidRuntime(1618): java.lang.NumberFormatException: Invalid double: ""
+06-15 17:25:23.431: E/AndroidRuntime(1618): 	at java.lang.StringToReal.invalidReal(StringToReal.java:63)
+06-15 17:25:23.431: E/AndroidRuntime(1618): 	at java.lang.StringToReal.parseDouble(StringToReal.java:267)
+06-15 17:25:23.431: E/AndroidRuntime(1618): 	at java.lang.Double.parseDouble(Double.java:301)
+06-15 17:25:23.431: E/AndroidRuntime(1618): 	at com.example.ch05_tempftoc.MainActivity.calc(MainActivity.java:64)
+06-15 17:25:23.431: E/AndroidRuntime(1618): 	at com.example.ch05_tempftoc.MainActivity.onCheckedChanged(MainActivity.java:48)
+06-15 17:25:23.431: E/AndroidRuntime(1618): 	at android.widget.RadioGroup.setCheckedId(RadioGroup.java:174)
+06-15 17:25:23.431: E/AndroidRuntime(1618): 	at android.widget.RadioGroup.access$600(RadioGroup.java:54)
+06-15 17:25:23.431: E/AndroidRuntime(1618): 	at android.widget.RadioGroup$CheckedStateTracker.onCheckedChanged(RadioGroup.java:358)
+06-15 17:25:23.431: E/AndroidRuntime(1618): 	at android.widget.CompoundButton.setChecked(CompoundButton.java:155)
+06-15 17:25:23.431: E/AndroidRuntime(1618): 	at android.widget.CompoundButton.toggle(CompoundButton.java:112)

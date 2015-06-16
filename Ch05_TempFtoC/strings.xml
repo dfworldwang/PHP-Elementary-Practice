@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">&quot;溫度換算&quot;</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="charF">&quot;\u2109&quot;</string>
+    <string name="charC">&quot;\u2103&quot;</string>
+
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Ch06_MovieListView</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="menuItems">
+        <item >台北影城</item>
+        <item >板橋影城</item>
+        <item >台中影城</item>
+        <item >台南影城</item>
+        <item >高雄影城</item>
+    </string-array>
+
+</resources>
